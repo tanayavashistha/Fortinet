@@ -1,0 +1,4 @@
+# Created at 2020-12-15T12:14:01.374
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Eclipse_Workspace\Workspace_Selenium\Fortinet\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
